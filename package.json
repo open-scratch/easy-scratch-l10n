@@ -1,5 +1,5 @@
 {
-    "name": "easy-scratch-l10n",
+    "name": "scratch-l10n",
     "version": "3.14.0",
     "description": "Scratch3.0国际化翻译，仅保留中英文",
     "main": "./dist/l10n.js",
